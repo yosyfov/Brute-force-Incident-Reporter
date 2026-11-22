@@ -1,0 +1,13 @@
+Nov 20 01:45:10 server sshd[1001]: Accepted password for jdoe from 192.168.1.20 port 51000 ssh2
+Nov 20 01:52:33 server sshd[1005]: Accepted password for jdoe from 192.168.1.20 port 51022 ssh2
+Nov 20 02:11:03 server sshd[1123]: Failed password for root from 185.199.108.153 port 54321 ssh2
+Nov 20 02:11:09 server sshd[1124]: Failed password for admin from 185.199.108.153 port 54330 ssh2
+Nov 20 02:11:15 server sshd[1125]: Failed password for oracle from 185.199.108.153 port 54338 ssh2
+Nov 20 02:11:21 server sshd[1126]: Failed password for test from 185.199.108.153 port 54347 ssh2
+Nov 20 02:11:27 server sshd[1127]: Failed password for root from 185.199.108.153 port 54355 ssh2
+Nov 20 02:11:33 server sshd[1128]: Failed password for admin from 185.199.108.153 port 54363 ssh2
+Nov 20 02:11:40 server sshd[1129]: Failed password for oracle from 185.199.108.153 port 54371 ssh2
+Nov 20 02:11:48 server sshd[1130]: Failed password for test from 185.199.108.153 port 54380 ssh2
+Nov 20 02:12:02 server sshd[1140]: Accepted password for admin from 185.199.108.153 port 54399 ssh2
+Nov 20 02:15:45 server sshd[1200]: Accepted password for jdoe from 192.168.1.20 port 51077 ssh2
+
