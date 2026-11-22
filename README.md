@@ -18,18 +18,11 @@ Kali Linux, a small local model such as llama3.2 and the “jq” command.
 
 Install the model runner and the model on your Linux machine, as well as the jq command:
 
-\`\`\`bash
+```bash
 curl -fsSL https://ollama.com/install.sh | sh
-\`\`\`
-
-\`\`\`bash
 ollama pull llama3.2
-\`\`\`
-
-\`\`\`bash
 sudo apt install jq -y
-\`\`\`
-
+```
 
 
 ## How to run and use the tool
@@ -40,9 +33,9 @@ sudo apt install jq -y
 
 Point any of the scripts at the file with the logins, e.g.:
 
-\`\`\`bash
+```bash
 ./report.sh fakelog
-\`\`\`
+```
 
 
 
